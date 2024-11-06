@@ -1,2 +1,1 @@
-# OpenCV
-just for learn
+print("Akshay jogi")
